@@ -1,5 +1,5 @@
 local www = {
-  "bu gipkzın hwid idsi"
+  "D8903A045B58F928F2002CE86C18E1B088BC"
 }
 
 return www
