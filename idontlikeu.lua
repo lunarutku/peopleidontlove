@@ -1,5 +1,5 @@
 local www = {
-  "D8903A045B58F928F2002CE86C18E1B088BC"
+  "no"
 }
 
 return www
